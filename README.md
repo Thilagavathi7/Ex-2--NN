@@ -1,9 +1,11 @@
 <H3>Name</H3>THILAGAVATHI.S
-<H3>Register no.</H3212222220053
+<H3>Register no.</H>212222220053
 <H3>Date</H3>26/3/2024
 <H3>Experiment No. 2 </H3>
-## Implementation of Perceptron for Binary Classification
+# Implementation of Perceptron for Binary Classification
+
 # AIM:
+
 To implement a perceptron for classification using Python<BR>
 
 # EQUIPMENTS REQUIRED:
