@@ -1,6 +1,6 @@
 <H3>Name: THILAGAVATHI.S</H3>
 <H3>Register no : 212222220053 </H>
-<H3>Dat e: 26/3/2024</H3>
+<H3>Date: 26/3/2024</H3>
 <H3>Experiment No. 2 </H3>
 Implementation of Perceptron for Binary Classification
 
